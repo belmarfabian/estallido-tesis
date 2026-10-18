@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "Si usas estos datos o la figura, cítalos así. La tipología de las cuatro tesis es de Cristóbal Bellolio; cítala también."
+title: "Tesis sobre el estallido social: mapa longitudinal y base de referencias"
+abstract: "Base de referencias sobre el estallido social chileno de 2019. La tipología de cuatro tesis (transformacional, populista, estructural e insurreccional) es de Cristóbal Bellolio. La asignación de cada obra a una tesis, las subcorrientes, la codificación de mecanismos causales y la variable de registro son de elaboración propia."
+doi: "10.5281/zenodo.23455927"
+date-released: 2026-10-18
+type: dataset
+license: CC-BY-4.0
+url: "https://belmarfabian.github.io/estallido-tesis/"
+repository-code: "https://github.com/belmarfabian/estallido-tesis"
+authors:
+  - family-names: Belmar
+    given-names: Fabián
+    orcid: "https://orcid.org/0000-0003-4239-1874"
+    affiliation: "Núcleo Milenio SODAS"
+keywords:
+  - estallido social
+  - Chile
+  - "2019"
+  - protesta social
+  - populismo
+references:
+  - type: generic
+    title: "Tipología de cuatro tesis sobre el estallido social (hilo en X)"
+    authors:
+      - family-names: Bellolio
+        given-names: Cristóbal
+    date-published: 2026-10-17
+    url: "https://x.com/cbellolio/status/2111498263115272614"
+    medium: "X (antes Twitter)"

@@ -1,0 +1,36 @@
+{
+  "title": "Tesis sobre el estallido social: mapa longitudinal y base de referencias",
+  "description": "Base de referencias sobre las interpretaciones del estallido social chileno de octubre de 2019. La tipología de cuatro tesis (transformacional, populista, estructural e insurreccional) es de Cristóbal Bellolio (hilo en X, 17 de octubre de 2026). La asignación de cada obra a una tesis, las subcorrientes, la rama «Otras lecturas», la variable de registro y la codificación de mecanismos causales son de elaboración propia; Bellolio no participó en ellas. La codificación de mecanismos es una clasificación emergente, independiente de esa tipología: cada obra se codifica con todos los mecanismos que invoca, según un libro de códigos de 16 mecanismos en cinco familias, con mecanismo principal y nivel de confianza. Cada registro incluye autor, año, tesis, subcorriente, registro, mecanismos, referencia completa y fuente de verificación. El registro distingue investigación, ensayo y opinión o declaración. Incluye un libro de códigos, una prueba de confiabilidad con un segundo codificador ciego (modelo de lenguaje) y las figuras del mapa longitudinal 2012–2026. Visor interactivo: https://belmarfabian.github.io/estallido-tesis/",
+  "upload_type": "dataset",
+  "license": "cc-by-4.0",
+  "language": "spa",
+  "creators": [
+    {
+      "name": "Belmar, Fabián",
+      "orcid": "0000-0003-4239-1874",
+      "affiliation": "Núcleo Milenio SODAS"
+    }
+  ],
+  "keywords": [
+    "estallido social",
+    "Chile",
+    "2019",
+    "protesta social",
+    "populismo",
+    "neoliberalismo",
+    "revisión de literatura"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://belmarfabian.github.io/estallido-tesis/",
+      "relation": "isDocumentedBy",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "https://x.com/cbellolio/status/2111498263115272614",
+      "relation": "isDerivedFrom",
+      "resource_type": "other"
+    }
+  ],
+  "notes": "Tipología de las tesis: Cristóbal Bellolio (2026). Asignación de obras: elaboración propia (F. Belmar)."
+}

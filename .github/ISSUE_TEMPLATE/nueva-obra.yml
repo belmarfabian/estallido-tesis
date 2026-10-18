@@ -1,0 +1,72 @@
+name: Proponer una obra
+description: Sugiere una obra sobre el estallido social para la próxima versión de la base.
+title: "Obra: "
+labels: ["propuesta"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Gracias por proponer una obra. Solo entran obras cuyo autor, año y argumento se puedan verificar en una fuente publicada. Puede proponer obras que no calcen en la tipología de Bellolio: irán a «Otras lecturas».
+  - type: input
+    id: autores
+    attributes:
+      label: Autor o autores
+      placeholder: "Ej.: Araujo, Kathya"
+    validations:
+      required: true
+  - type: input
+    id: anio
+    attributes:
+      label: Año de publicación
+      placeholder: "Ej.: 2022"
+    validations:
+      required: true
+  - type: input
+    id: titulo
+    attributes:
+      label: Título
+    validations:
+      required: true
+  - type: input
+    id: fuente
+    attributes:
+      label: Editorial, revista o medio
+      description: Déjelo en blanco si no lo sabe.
+  - type: input
+    id: url
+    attributes:
+      label: Enlace verificable
+      description: Ficha editorial, DOI, catálogo, reseña o entrevista.
+    validations:
+      required: true
+  - type: dropdown
+    id: tesis
+    attributes:
+      label: Tesis sugerida
+      options:
+        - Transformacional
+        - Populista
+        - Estructural
+        - Insurreccional
+        - Otras lecturas
+        - No estoy seguro
+    validations:
+      required: true
+  - type: dropdown
+    id: registro
+    attributes:
+      label: Registro
+      options:
+        - Investigación (artículo arbitrado, monografía con evidencia, encuesta)
+        - Ensayo (libro o capítulo interpretativo)
+        - Opinión (columna, crónica, entrevista, declaración o documento político)
+        - No estoy seguro
+    validations:
+      required: true
+  - type: textarea
+    id: argumento
+    attributes:
+      label: Argumento central sobre las causas del estallido
+      description: Una o dos frases. Si puede, incluya una cita breve con página.
+    validations:
+      required: true
