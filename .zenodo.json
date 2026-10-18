@@ -1,0 +1,30 @@
+{
+  "title": "Tesis sobre el estallido social: mapa longitudinal y base de referencias",
+  "description": "Base de datos de interpretaciones publicadas sobre el estallido social chileno de octubre de 2019, clasificadas según la tipología de cuatro tesis de Cristóbal Bellolio (transformacional, populista, estructural e insurreccional). Cada registro incluye autor, año, tesis, subcorriente, registro (académico u opinión), enfoque, referencia completa y fuente de verificación. Incluye la figura del mapa longitudinal 2012–2026. Visor interactivo: https://belmarfabian.github.io/estallido/",
+  "upload_type": "dataset",
+  "license": "cc-by-4.0",
+  "language": "spa",
+  "creators": [
+    {
+      "name": "Belmar, Fabián",
+      "orcid": "0000-0003-4239-1874",
+      "affiliation": "Centro de Estudios Públicos (CEP)"
+    }
+  ],
+  "keywords": [
+    "estallido social",
+    "Chile",
+    "2019",
+    "protesta social",
+    "populismo",
+    "neoliberalismo",
+    "revisión de literatura"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://belmarfabian.github.io/estallido/",
+      "relation": "isDocumentedBy",
+      "resource_type": "other"
+    }
+  ]
+}
